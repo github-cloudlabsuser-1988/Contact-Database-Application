@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "appName": {
+      "value": "ContosoWebApp",
+      "metadata": {
+        "description": "The name of the application."
+      }
+    },
+    "location": {
+      "value": "East US",
+      "metadata": {
+        "description": "The Azure region where the resources will be deployed."
+      }
+    }
+  },
+}
