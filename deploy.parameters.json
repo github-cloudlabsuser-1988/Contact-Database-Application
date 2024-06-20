@@ -9,7 +9,7 @@
       }
     },
     "location": {
-      "value": "East US",
+      "value": "West Europe",
       "metadata": {
         "description": "The Azure region where the resources will be deployed."
       }
